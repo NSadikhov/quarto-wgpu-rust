@@ -12,6 +12,8 @@ Front View | Side View
 
 To find the full lists of view samples, go to the [rendered view samples folder](https://github.com/NSadikhov/quarto-wgpu-rust/tree/main/assets/images/rendered_view_samples).
 
+## Getting Started
+
 Clone and run from source:
 ```
 git clone https://github.com/NSadikhov/quarto-wgpu-rust.git
