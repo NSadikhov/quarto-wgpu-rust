@@ -1,6 +1,6 @@
 # quarto-wgpu-rust
 
-Simple graphics project for Quarto board game. Written with [rust](https://www.rust-lang.org/) programming language and [wgpu](https://github.com/gfx-rs/wgpu) graphics api (based on [WebGPU standard](https://gpuweb.github.io/gpuweb/)).
+A simple graphics project for Quarto board game. Written with [rust](https://www.rust-lang.org/) programming language and [wgpu](https://github.com/gfx-rs/wgpu) graphics api (based on [WebGPU standard](https://gpuweb.github.io/gpuweb/)).
 
 This project has been done following instructions from the wgpu tutorial: https://sotrh.github.io/learn-wgpu/
 
