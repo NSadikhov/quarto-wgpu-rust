@@ -1,6 +1,6 @@
 # quarto-wgpu-rust
 
-A simple graphics project for Quarto board game, written with [rust](https://www.rust-lang.org/) programming language and [wgpu](https://github.com/gfx-rs/wgpu) graphics api (based on [WebGPU standard](https://gpuweb.github.io/gpuweb/)).
+A simple graphics project for Quarto board game - created through the integration of [WebGPU](https://gpuweb.github.io/gpuweb/) and Vulkan Graphics API in the [rust](https://www.rust-lang.org/) programming language. The project's goal is to produce a visually immersive computer adaptation of the board game Quarto, with online and offline gameplay modes versus human and AI opponents. The implementation makes use of the [wgpu](https://github.com/gfx-rs/wgpu) Rust graphics library, Blender for 3D modeling, and Firebase for data storage. The AI opponent is created using the minmax algorithm.
 
 This project has been done following instructions from the wgpu tutorial: https://sotrh.github.io/learn-wgpu/
 
